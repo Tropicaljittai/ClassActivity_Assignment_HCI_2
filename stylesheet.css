@@ -197,10 +197,15 @@ header {
 }
 
 .text-contents {
+  display: none;
   margin: 3% auto;
   width: 80%;
   font-size: 12px;
   color: #b3aeb5;
+}
+
+.text-active {
+  display: block;
 }
 
 .faq-wrapper {
